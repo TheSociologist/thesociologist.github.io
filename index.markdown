@@ -4,15 +4,4 @@
 
 layout: home
 ---
-Hi I'm Ajan. You can find some (mostly web development related) posts below. 
-
-
-
-## About Me
-I'm a dual degree computer science and mathematics student at UMass Amherst interested in applying technology to healthcare and social change. Or at least I was at some point. When I look at other people's pages for inspiration, these about sections always seem horrifically outdated. Just look at [Sergey Brin's](http://infolab.stanford.edu/~sergey/) ;).  
-
-On the healthcare side, I was a research assistant at the [Nursing Engineering Lab](https://people.umass.edu/ynoh/) at UMass where I built a mobile application to improve medical data collection for medical research. More recently, I'm working at the [Bioinformatics Natural Language Processing Lab (BioNLP)](https://bio-nlp.org/) where I'm using transformers like BERT to simplify medical jargon to improve patient understanding.
-
-In my spare time, I've been working on a productivity and social networking platform called [OpenThink](https://www.openthink.org/) to aggregate and advance social change efforts at UMass. As part of my honors thesis, I'm researching and implementing a decentralized version of the application to improve organizational privacy using [Holochain](http://holochain.org/) and [IPFS](https://ipfs.io/) (both of which I strongly recommend you check out if you haven't already). 
-
-I've also gained some industry experience through two software engineering internships. At DRF Engineering, I developed industrial drone motor firmware using C. At SolBid, I helped develop a web app for managing solar panel installation and researched cloud migrations.
+Hi I'm Ajan. You can find some (mostly web development related) posts below or find out more about [me](/about)
