@@ -21,13 +21,14 @@
 title: Ajan Prabakar
 email: ajanprabakar@gmail.com
 description: >-
-  Just a simple blog. 
+  Just some thoughts on (mostly web) programming. 
 domain: thesociologist.github.io
 url: https://thesociologist.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  thesociologist
+linkedin_username:  ajanp
 
 # Build settings
 theme: minima
