@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf/
 ---
-A list of books I've read or am reading. I'm hoping this finally forces me to actually make some progress.
+A list of books I've read or am reading. I'm hoping this forces me to actually make some progress.
 
 # Reading
 - [**Get Together**](https://www.amazon.com/Get-Together-build-community-people/dp/1732265194) by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto: about building community. Super early on this one so not much to report. 
