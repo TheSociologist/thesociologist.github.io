@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Casual Introduction to Collborative Rich-Text Editing on the Web - Part 2: Algorithms and Data Structures"
+title:  "A Casual Introduction to Collaborative Rich-Text Editing on the Web - Part 2: Algorithms and Data Structures"
 date:   2021-12-09 14:29:25 -0500
 categories: article
 ---
