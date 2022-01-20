@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hi I'm Ajan. You can find some (mostly web development related) posts below or find out more about [me](/about)
+Hi! I'm Ajan. You can find some (mostly web development related) posts below or find out more about [me](/about).

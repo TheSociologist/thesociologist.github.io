@@ -7,7 +7,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a dual degree computer science and mathematics student at UMass Amherst. Or at least I was at some point. When I look at other people's pages for inspiration, these about sections always seem horrifically outdated. Just look at [Sergey Brin's](http://infolab.stanford.edu/~sergey/resume.html) ;).  
+I'm a dual degree computer science and mathematics student at UMass Amherst. Or at least I was at some point. When I look at other people's pages, these about sections always seem horrifically outdated. Just look at [Sergey Brin's](http://infolab.stanford.edu/~sergey/resume.html).  
 
 I'm primarily interested in applying technology to healthcare and social change. 
 
