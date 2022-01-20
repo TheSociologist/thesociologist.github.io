@@ -101,7 +101,7 @@ COMMIT;
 ```
 
 ## Read
-This is tougher and somewhat slower than with the order column approach. We can leverage *with cardinality* to unnest the elements in the row_ids array for a given view, associate the row_ids with the rows and then order by the cardinal index. 
+This is tougher and somewhat slower than with the order column approach. We can leverage *with cardinality* to unnest the elements in the row_ids array for a given view, associate the row_ids with the rows and then order by the ordinal index. 
 ```
 select
 *
